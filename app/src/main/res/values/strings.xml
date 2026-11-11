@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Zoom Fill</string>
+    <string name="service_desc">Press the Menu button on the remote to cycle screen zoom and remove black bars.</string>
+</resources>
